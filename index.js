@@ -31,20 +31,20 @@ class TripleAES {
 }
 
 const tripleAES = new TripleAES();
-// let encryptedData = tripleAES.encrypt(
-//   "This is Secret Data",
-//   "secret key 1",
-//   "secret key 2",
-//   "secret key 3"
-// );
-// console.log(encryptedData);
-// let decryptedData = tripleAES.decrypt(
-//   "U2FsdGVkX1+tRhNPlLlNhh9yUMaLqZdq7ZP0n8CGmQR3JrVe8esQ1xzEgAb9TTZUag4upBQkYJJ6wRj8Kn1G+po3QLc8JevceDM0l5WMszAVO9QFbAg6CYyP4PM5SeKFRl/a7hvWeZXCW/pxazpuowT+kodJNUAQeCOvvPHHiVAfmFTEifZLrSohaDzB+dKnA/ObsbO5897VpPEJ8gpf8Q==",
-//   "secret key 1",
-//   "secret key 2",
-//   "secret key 3"
-// );
+// // let encryptedData = tripleAES.encrypt(
+// //   "This is Secret Data",
+// //   "secret key 1",
+// //   "secret key 2",
+// //   "secret key 3"
+// // );
+// // console.log(encryptedData);
+// // let decryptedData = tripleAES.decrypt(
+// //   "U2FsdGVkX1+tRhNPlLlNhh9yUMaLqZdq7ZP0n8CGmQR3JrVe8esQ1xzEgAb9TTZUag4upBQkYJJ6wRj8Kn1G+po3QLc8JevceDM0l5WMszAVO9QFbAg6CYyP4PM5SeKFRl/a7hvWeZXCW/pxazpuowT+kodJNUAQeCOvvPHHiVAfmFTEifZLrSohaDzB+dKnA/ObsbO5897VpPEJ8gpf8Q==",
+// //   "secret key 1",
+// //   "secret key 2",
+// //   "secret key 3"
+// // );
 
-console.log(decryptedData);
+// console.log(decryptedData);
 
 module.exports = tripleAES;
