@@ -1,6 +1,6 @@
 {
   "name": "triple-aes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Triple AES Algorithm Encryption with 3 private keys",
   "main": "index.js",
   "scripts": {
