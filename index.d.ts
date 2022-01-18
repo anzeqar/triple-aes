@@ -1,15 +1,13 @@
-declare module "triple-aes";
-
-declare function encrypt(
-  data: String,
-  key1: String,
-  key2: String,
-  key3: String
-) {};
-
-declare function decrypt(
-  data: String,
-  key1: String,
-  key2: String,
-  key3: String
-) {};
+export = tripleAES;
+declare const tripleAES: TripleAES;
+/**
+ * @author anzeqar
+ * @class TripleAES
+ * @exports tripleAES
+ * @package triple-aes
+ * @license MIT
+ */
+declare class TripleAES {
+    encrypt: (data?: string, key1?: string, key2?: string, key3?: string) => any;
+    decrypt: (data?: string, key1?: string, key2?: string, key3?: string) => any;
+}
