@@ -1,8 +1,9 @@
 {
   "name": "triple-aes",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Triple AES Algorithm Encryption with 3 private keys",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "start": "node index.js"
   },
@@ -18,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/anzeqar/triple-aes/issues"
   },
-  "homepage": "https://github.com/anzeqar/triple-aes#readme",
+  "homepage": "https://github.com/anzeqar/triple-aes",
   "dependencies": {
     "crypto-js": "^4.1.1"
   }
