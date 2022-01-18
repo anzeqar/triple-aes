@@ -1,6 +1,6 @@
 {
   "name": "triple-aes",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "Triple AES Algorithm Encryption (3 Private Keys)",
   "main": "index.js",
   "types": "index.d.ts",
