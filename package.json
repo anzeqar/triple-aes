@@ -1,7 +1,7 @@
 {
   "name": "triple-aes",
-  "version": "1.1.1",
-  "description": "Triple AES Algorithm Encryption with 3 private keys",
+  "version": "1.1.2",
+  "description": "Triple AES Algorithm Encryption (3 Private Keys)",
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
@@ -12,7 +12,8 @@
     "url": "git+https://github.com/anzeqar/triple-aes.git"
   },
   "keywords": [
-    "triple-aes"
+    "triple-aes",
+    "anzeqar"
   ],
   "author": "anzeqar <anzeqar@gmail.com> (https://anzeqar.github.io)",
   "license": "MIT",
