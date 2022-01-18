@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/anzeqar/triple-aes/issues"
   },
-  "homepage": "https://github.com/anzeqar/triple-aes",
+  "homepage": "https://github.com/anzeqar/triple-aes#readme",
   "dependencies": {
     "crypto-js": "^4.1.1"
   }
